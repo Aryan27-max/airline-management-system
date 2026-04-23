@@ -2,12 +2,6 @@
 
 A comprehensive Java-based airline management application with Java Swing GUI and MySQL database backend.
 
-## Team Members
-- **Aryan Gupta** (RA2411026011336)
-- **Raghav Kalani** (RA2411026011312)
-- **Ranveer Sinha** (RA2411026011339)
-- **Alok Pradhan** (RA2411026011344)
-
 **Course:** Advanced Programming Practice (21CSC203P)  
 **Faculty:** R.Vidhya (AJ-2)
 
@@ -201,8 +195,8 @@ airline-management-system/
 - **Access:** Full system management, reports, all CRUD operations
 
 ### Customer Account
-- **Username:** `raghav`
-- **Password:** `raghav123`
+- **Username:** `aryan`
+- **Password:** `aryan123`
 - **Access:** Flight search, booking, view/cancel own bookings
 
 *Note: You can register new customer accounts through the registration page.*
