@@ -9,6 +9,7 @@
 - Requires Java Runtime Environment (JRE) installed on the user's machine
 
 ---
+<!-- test commit -->
 
 ## ✅ Recommended Deployment Options
 

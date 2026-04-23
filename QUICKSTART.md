@@ -6,7 +6,7 @@
 - ✅ Java 17+ installed
 - ✅ MySQL 8.x installed and running
 - ✅ IDE (IntelliJ/Eclipse/VS Code) - optional but recommended
-
+<!-- test commit -->
 ### Step 2: Set Up Database
 
 **Windows PowerShell:**

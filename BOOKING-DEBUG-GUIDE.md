@@ -8,6 +8,8 @@ Now when booking fails, you'll see a popup dialog showing:
 - Error code
 - Type of error (SQL or Unexpected)
 
+<!-- test commit -->
+
 ### 2. Added Console Debugging
 Console shows step-by-step progress:
 ```

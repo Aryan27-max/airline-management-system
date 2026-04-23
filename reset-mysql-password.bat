@@ -32,3 +32,6 @@ echo Now update DatabaseConfig.java:
 echo   PASSWORD = "newpassword123"
 echo.
 pause
+
+
+@REM test commit

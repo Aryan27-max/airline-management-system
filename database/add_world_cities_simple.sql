@@ -122,3 +122,6 @@ SELECT
 FROM flights WHERE flight_number IN ('AI191', 'AI192', 'UA101', 'AA201', 'AI401');
 
 SELECT 'SUCCESS: Added 25+ new cities and flights!' as status;
+
+
+-- test commit

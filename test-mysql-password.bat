@@ -6,7 +6,7 @@ echo.
 echo This will help you find your MySQL root password
 echo.
 set /p PASS="Enter your MySQL root password: "
-
+@REM test commit
 echo.
 echo Testing password...
 "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql.exe" -u root -p%PASS% -e "SELECT 'SUCCESS! Password is correct!' AS Result;"

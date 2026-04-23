@@ -15,6 +15,7 @@ Email: newuser@email.com
 Phone: 1234567890
 Role: CUSTOMER
 ```
+<!-- test commit -->
 
 ### Example 2 - Test User
 ```

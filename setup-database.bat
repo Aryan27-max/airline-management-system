@@ -8,6 +8,7 @@ echo Make sure MySQL is running before proceeding!
 echo.
 pause
 
+@REM test commit
 set /p MYSQL_USER="Enter MySQL username (default: root): "
 if "%MYSQL_USER%"=="" set MYSQL_USER=root
 

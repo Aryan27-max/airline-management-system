@@ -20,6 +20,7 @@ if %ERRORLEVEL% NEQ 0 (
     exit /b 1
 )
 
+@REM test commit
 echo [1/3] Cleaning previous builds...
 call mvn clean
 if %ERRORLEVEL% NEQ 0 (

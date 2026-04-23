@@ -8,6 +8,8 @@
 
 ---
 
+<!-- test commit -->
+
 ## ✅ Step 2: Setup Database
 
 Open PowerShell as Administrator and run:
